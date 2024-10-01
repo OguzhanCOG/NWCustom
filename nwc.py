@@ -294,6 +294,8 @@ class Model:
                 params.append((f'layer_{i}_bias', layer.bias))
         return params
 
+### REGRESSION TEST ### This is only one of many possible applications, yet the simplest.
+
 # Define your model in the array of objects here.
 # Really simple model; works well to fit graphs, or any sort of data.
 model = Model([Linear(1, 50), Sigmoid(), Linear(50, 1)])
