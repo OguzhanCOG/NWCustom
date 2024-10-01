@@ -1,7 +1,11 @@
 # NeuralWorksCustom Framework
-NeuralWorksCustom (NWCustom) Framework is a lightweight, customisable neural network toolkit inspired by PyTorch. It offers a simple yet powerful API for building, training, and running custom neural network models. The framework is designed to be beginner-friendly while providing flexibility for more advanced users to experiment with their own architectures and blocks.
+NeuralWorksCustom (NWCustom) Framework is a lightweight, customisable neural network toolkit inspired by PyTorch.
 
-The ultimate goal, like NeuralWorks, is to create a versatile and robust system that allows users, even those without extensive machine learning backgrounds, to design and implement their own neural network architectures. Future plans include expanding support for more advanced model types, including blocks that may be used in LLMs (Transformers, Pre-made/ready Attention blocks).
+It offers a simple yet powerful API for building, training, and running custom neural network models. The framework is designed to be beginner-friendly while providing flexibility for more advanced users to experiment with their own architectures and blocks.
+
+The ultimate goal, like NeuralWorks, is to create a versatile and robust system that allows users, even those without extensive machine learning backgrounds, to design and implement their own neural network architectures.
+
+Future plans include expanding support for more advanced model types, including blocks that may be used in LLMs (Transformers, Pre-made/ready Attention blocks).
 
 Enjoy!
 
