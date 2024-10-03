@@ -54,7 +54,7 @@ model.train(data_loader, loss_fn, optimizer, epochs=100)
 model.save('model.json')
 model.load('model.json')
 
-# Make predictions and visualize results
+# Make predictions and visualise results
 # (See the provided code for examples)
 ```
 
@@ -78,7 +78,7 @@ Version 1.0.2:
 - Integration with popular datasets.
 - Performance optimizations.
 - Custom pre-made, drop-in Attention blocks.
-- Shifted Window (Swin) Transformers /w MLP repacing KANs.
+- Shifted Window (Swin) Transformers /w MLP replacing KANs.
 - DCGAN support.
 
 More planned for the future.
